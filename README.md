@@ -40,16 +40,16 @@ Es necesario contar con uno de los siguientes softwares de optimización:
 
 ## Evidencias de la Investigación
 
-### Modelado Matemático
-> *Diseño de la función objetivo y las restricciones del sistema.*
+### Interfaz
+> *Diseño de la interfaz.*
 <p align="center">
-  <img src="./Imagenes/ModeloMatematico.PNG" width="800" alt="Formulación del Modelo Matemático">
+  <img src="./Imagenes/InterfazPrincipal.PNG" width="800" alt="Interfaz Principal">
 </p>
 
-### Resultados y Optimización
+### Resultados
 > *Procesamiento y obtención de la solución óptima mediante software analítico.*
 <p align="center">
-  <img src="./Imagenes/ResultadosSolver.PNG" width="800" alt="Resultados en Solver o Lindo">
+  <img src="./Imagenes/Pruebas.PNG" width="800" alt="Resultados">
 </p>
 
 ---
